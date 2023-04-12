@@ -6,7 +6,7 @@ All notable changes to this project will be documented in this file.
 
 ### Changed
 
-- Now muse adds metadata to the downloaded audio files.
+- Now musa adds metadata to the downloaded audio files.
 
 ## [0.1.0] - 12-04-2023
 

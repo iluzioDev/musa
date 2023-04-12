@@ -5,7 +5,7 @@ Created on Tue Apr 11 2023
 
 @author: iluzioDev
 
-Muse is a simple tool for downloading and converting YouTube videos to MP3 or MP4.
+Musa is a simple tool for downloading and converting YouTube videos to MP3 or MP4.
 """
 import PySimpleGUI as gui
 import modules.constants as CONSTS
@@ -13,7 +13,7 @@ import modules.downloaders as DL
 
 def main():
   """
-  Starts the GUI and handles the events and features of muse.
+  Starts the GUI and handles the events and features of musa.
   """
   gui.theme(CONSTS.THEME)
   window = gui.Window(title=CONSTS.PROGRAM_NAME, layout=CONSTS.LAYOUT, margins=(25, 25), background_color=CONSTS.BACKGROUND_COLOR)

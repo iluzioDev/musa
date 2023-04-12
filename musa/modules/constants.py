@@ -5,11 +5,11 @@ Created on Tue Apr 11 2023
 
 @author: iluzioDev
 
-This document contains the constants used in Muse.
+This document contains the constants used in Musa.
 """
 import PySimpleGUI as gui
 
-PROGRAM_NAME = "Muse v0.1.0"
+PROGRAM_NAME = "Musa v0.1.0"
 THEME = "DarkBlack"
 BACKGROUND_COLOR = "#2D3640"
 BOX_COLOR = "#64778D"

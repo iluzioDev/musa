@@ -5,7 +5,7 @@ Created on Tue Apr 11 2023
 
 @author: iluzioDev
 
-This document contains the functions used to download videos and audios from YouTube with muse.
+This document contains the functions used to download videos and audios from YouTube with musa.
 """
 import os
 import pytube
